@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">NewsON</string>
+    <string name="about">About</string>
+    <string name="user_name">Septiar</string>
+    <string name="email">septiarmustafa@gmail.com</string>
+    <string name="profile">profile</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="other_news">Other News</string>
+
+    <string-array name="news_title">
+        <item>AS Bersih-Bersih Produk China, Modalnya Rp 30,1 Triliun</item>
+        <item>Serangan Siber Hantui Digitalisasi RI, Industri Siap Hadapi?</item>
+        <item>Cara Mengetahui Whatsapp Diblokir Orang Lain dan Ciri-cirinya</item>
+        <item>Aplikasi Trendi Ungkap Cara Baru Gen-Z Cari Jodoh, Bukan Tinder-Bumble</item>
+        <item>Cara Mudah Kirim WhatsApp Tanpa Simpan Nomor Lebih Dulu</item>
+        <item>Awas Bom Nuklir Rusia Bisa Meledak Sewaktu-waktu di Antariksa</item>
+        <item>Modus Penipuan Baru Incar Pengguna iPhone, Ini Ciri Khas Smishing</item>
+        <item>Jack Ma Muncul Buka-bukaan Masa Depan Manusia 20 Tahun Lagi</item>
+        <item>Bukan BMKG, Google Kasih Peringatan Cuaca Ekstrem</item>
+        <item>Daftar HP Samsung Diskon Gila-gilaan Jelang Nataru 2025</item>
+        <item>DIrut PLN: Jangan Sampai Pengguna EV Kehabisan Listrik di Jalan Tol</item>
+        <item>HP China Makin Mirip iPhone, Jangan Sampai Tertukar</item>
+    </string-array>
+
+    <string-array name="news_overview">
+        <item>Rencana pengurangan ketergantungan AS terhadap produk China membutuhkan dana besar untuk mengganti peralatan telekomunikasi.</item>
+        <item>Industri telekomunikasi Indonesia siap untuk menghadapi ancaman serangan siber yang semakin meningkat.</item>
+        <item>WhatsApp meningkatkan fitur pemblokiran dengan menambahkan opsi Block Shortcut untuk menghindari spam dan penipuan.</item>
+        <item>Generasi Z lebih suka mencari pasangan melalui aktivitas sosial seperti olahraga, bukan aplikasi kencan online.</item>
+        <item>WhatsApp memungkinkan pengiriman pesan tanpa perlu menyimpan nomor kontak, memudahkan pengguna bisnis.</item>
+        <item>Rusia meningkatkan ancaman bom nuklir dari luar angkasa, memicu kekhawatiran internasional tentang dampak kecelakaan.</item>
+        <item>Modus penipuan smishing semakin marak, menargetkan pengguna iPhone melalui pesan SMS palsu.</item>
+        <item>Jack Ma membahas masa depan umat manusia dan teknologi yang akan mengubah kehidupan manusia 20 tahun mendatang.</item>
+        <item>Google memberikan peringatan cuaca ekstrem menggunakan teknologi kecerdasan buatan untuk memprediksi cuaca dengan lebih akurat.</item>
+        <item>Samsung menawarkan diskon besar untuk perangkat Galaxy menjelang Natal dan Tahun Baru 2025.</item>
+        <item>PLN memastikan pengisian daya kendaraan listrik di jalan tol tersedia dengan baik selama musim liburan.</item>
+        <item>Desain ponsel China semakin mirip dengan iPhone, memicu perdebatan tentang hak kekayaan intelektual dalam industri teknologi.</item>
+    </string-array>
+
+    <string-array name="news_description">
+        <item>Jakarta, CNBC Indonesia - Rencana untuk mengurangi ketergantungan Amerika Serikat (AS) terhadap produk China membutuhkan dana besar. Komisi Komunikasi Federal (FCC) memperkirakan biaya mencapai US$4,98 miliar (Rp 78,9 triliun) untuk mengganti perangkat telekomunikasi BTS merek Huawei dan ZTE yang dianggap mengancam keamanan nasional. Kongres AS hanya menyetujui US$1,9 miliar (Rp 30,1 triliun) untuk program "Rip and Replace." Namun, FCC meminta tambahan dana US$3,08 miliar (Rp 48,8 triliun) untuk mengganti peralatan di 126 operator. Tanpa dana tersebut, jaringan di wilayah perdesaan berisiko terputus, yang dapat mengganggu layanan 911.</item>
+        <item>Jakarta, CNBC Indonesia - PT Lintas Teknologi Indonesia menegaskan kesiapan industri telekomunikasi dalam mempercepat transformasi digital di Indonesia. Presiden Direktur PT Lintas Teknologi Indonesia, Muhamad Paisol, menekankan pentingnya mengembangkan layanan keamanan digital untuk melindungi sektor telekomunikasi dari serangan siber. Seiring dengan semakin banyaknya serangan siber yang menargetkan jaringan telekomunikasi, perusahaan ini berfokus pada pengembangan security operator center untuk membantu operator telekomunikasi melawan ancaman digital.</item>
+        <item>WhatsApp semakin menjadi aplikasi penting dalam kehidupan sehari-hari. Dengan fitur pemblokiran yang semakin canggih, pengguna dapat melindungi diri dari potensi ancaman privasi, termasuk spam dan penipuan. Fitur baru seperti Block Shortcut memungkinkan pengguna untuk lebih cepat dan mudah memblokir kontak yang tidak diinginkan tanpa harus membuka percakapan.</item>
+        <item>Generasi Z kini lebih suka mencari pasangan melalui aktivitas sosial seperti olahraga, bukan melalui aplikasi kencan tradisional. Hal ini mencerminkan perubahan dalam cara anak muda mendekati hubungan, yang lebih mengutamakan pengalaman nyata dibanding platform virtual.</item>
+        <item>Pengguna WhatsApp kini dapat mengirim pesan tanpa harus menyimpan nomor di kontak mereka. Fitur ini dirancang untuk mendukung pengguna bisnis online yang sering berinteraksi dengan banyak pelanggan, menjadikannya solusi yang efisien dan praktis.</item>
+        <item>Ketegangan meningkat saat pesawat luar angkasa Rusia dilaporkan membawa bom nuklir. Situasi ini memicu kekhawatiran global tentang potensi ledakan di luar angkasa dan dampaknya terhadap stabilitas geopolitik.</item>
+        <item>Modus penipuan smishing menargetkan pengguna iPhone melalui pesan SMS palsu yang tampak resmi. Dengan meningkatnya insiden ini, penting bagi pengguna untuk lebih waspada terhadap pesan mencurigakan dan menghindari membagikan informasi sensitif.</item>
+        <item>Jack Ma kembali ke publik setelah sekian lama menghilang. Ia membagikan pandangannya tentang perubahan yang akan dialami umat manusia dalam 20 tahun ke depan, termasuk potensi teknologi dalam menciptakan peluang baru.</item>
+        <item>Google meluncurkan layanan peringatan cuaca yang lebih cepat dan akurat dibanding badan meteorologi tradisional. Teknologi ini memanfaatkan kecerdasan buatan untuk memprediksi kondisi cuaca ekstrem dengan lebih baik.</item>
+        <item>Jelang Natal dan Tahun Baru, Samsung menawarkan diskon besar untuk sejumlah perangkat Galaxy. Penawaran ini menarik perhatian banyak konsumen yang ingin mendapatkan ponsel berkualitas dengan harga terjangkau.</item>
+        <item>PLN memastikan pengisian daya kendaraan listrik di jalan tol tersedia dengan baik. Pengemudi tidak perlu khawatir kehabisan daya saat melakukan perjalanan jarak jauh, terutama pada musim liburan.</item>
+        <item>Beberapa ponsel dari China meniru desain iPhone hingga membuat konsumen sulit membedakannya. Fenomena ini memicu perdebatan tentang kreativitas desain dan hak kekayaan intelektual di industri teknologi.</item>
+    </string-array>
+
+    <string-array name="news_description_2">
+        <item>Dengan berkembangnya teknologi, industri komunikasi global semakin membutuhkan perangkat yang lebih aman dan dapat diandalkan. AS telah memutuskan untuk mengurangi ketergantungannya terhadap produk China, termasuk Huawei dan ZTE, yang selama ini menjadi pemasok utama perangkat telekomunikasi. Mengganti perangkat tersebut dengan teknologi dari penyedia lain akan memerlukan biaya besar, namun hal ini dianggap penting untuk menjaga keamanan nasional.</item>
+        <item>Perusahaan teknologi di Indonesia tengah bekerja keras untuk menghadapi serangan siber yang terus meningkat. Selain meningkatkan kesadaran akan ancaman siber, mereka juga fokus pada pengembangan teknologi yang dapat mendeteksi dan memitigasi serangan sebelum menimbulkan kerusakan besar. Keamanan jaringan telekomunikasi menjadi prioritas utama dalam upaya menjaga stabilitas ekonomi digital Indonesia.</item>
+        <item>Ada beberapa tanda yang menunjukan kalau kontak WhatsApp kamu diblokir orang lain. WhatsApp sendiri memang punya fitur blokir nomor, namun mereka menyamarkan ciri-cirinya dengan alasan menjaga privasi pengguna. Jika nomor WhatsApp diblokir oleh seseorang, kamu atau orang tersebut saling tidak bisa menghubungi, baik melalui chat maupun telepon. "Kami sengaja membuat ini ambigu untuk melindungi privasi Anda saat Anda memblokir seseorang. Dengan demikian kami tidak bisa memberitahu Anda jika Anda diblokir oleh orang lain" tulis WhatsApp dalam keterangannya. Salah satu ciri kamu telah diblokir adalah tidak bisa melihat foto profil orang tersebut. Namun ini juga bisa jadi pertanda lain, misalnya pengguna yang dimaksud memang sengaja menyembunyikan atau tidak menggunakan foto profil. Selain itu juga karena nomor kontak Anda tidak disimpan. Pertanda lain adalah kamu tidak bisa Last Seen orang tersebut. Fitur tersebut muncul untuk memberikan informasi kapan pengguna aktif di WhatsApp. Hilangnya status Last Seen juga bisa karena pengguna telah menonaktifkan fitur. Jadi bukan hanya kamu yang tidak bisa melihat statusnya. Status WhatsApp orang juga tidak bisa dilihat jika telah diblokir. Namun ini juga bisa karena pengguna itu telah mengaktifkan fitur Privat Status pada beberapa orang saja. Pertanda lain adalah terkait dengan grup WhatsApp. Kamu tidak bisa mengundang ke grup jika pengguna tersebut telah memblokir kontak Anda. WhatsApp juga telah meluncurkan fitur baru bernama Block Shortcut. Menurut laporan WABetaInfo, fitur ini memungkinkan pengguna memblokir kontak yang tidak dikenal langsung di bilah notifikasi tanpa harus membuka percakapan. Fitur ini dirancang untuk menambahkan lapisan keamanan ekstra bagi pengguna dan menghemat waktu mereka saat hendak memblokir kontak yang tidak diinginkan. Ini merupakan langkah penting dalam mencegah serangan spam dan phising, karena pengguna dapat dengan cepat memblokir kontak yang tidak dipercaya sebelum mereka dapat mengakses informasi sensitif apa pun.</item>
+        <item>Di tengah kecenderungan global yang semakin mengarah pada aplikasi kencan online, generasi muda di Indonesia mulai mencari cara-cara baru untuk menemukan pasangan hidup. Olahraga, hobi, dan kegiatan sosial lainnya semakin menjadi tempat di mana mereka bertemu dan membangun hubungan lebih alami. Ini mencerminkan perubahan besar dalam cara pandang terhadap kencan dan hubungan di era digital.</item>
+        <item>Fitur baru WhatsApp yang memungkinkan pengiriman pesan tanpa harus menyimpan nomor kontak menjadi sangat berguna bagi banyak orang, terutama bagi pelaku bisnis online. Fitur ini memungkinkan mereka untuk lebih efisien berkomunikasi dengan pelanggan, tanpa harus menambah beban pada kontak pribadi mereka.</item>
+        <item>Pemerintah Rusia semakin meningkatkan potensi ancaman nuklir dari pesawat luar angkasa mereka. Meskipun kejadian ini jarang terjadi, dunia harus siap menghadapi kemungkinan buruk yang dapat terjadi akibat kecelakaan atau insiden lainnya di luar angkasa. Kepanikan internasional tentang masalah ini masih terus berlanjut, dengan perhatian utama pada dampak jangka panjangnya.</item>
+        <item>Penipuan digital semakin berkembang dengan modus baru, termasuk smishing, yang menargetkan pengguna perangkat Apple melalui SMS palsu. Modus ini sangat berbahaya karena tampak meyakinkan dan bisa mengecoh banyak pengguna. Oleh karena itu, pengguna iPhone harus berhati-hati dan memastikan bahwa mereka hanya membuka pesan dari sumber yang terpercaya.</item>
+        <item>Jack Ma, pendiri Alibaba, kembali muncul di publik setelah beberapa tahun menghilang. Pada kesempatan ini, ia membagikan pandangannya tentang masa depan umat manusia, termasuk teknologi dan kecerdasan buatan, yang ia percaya akan membentuk kehidupan manusia di masa mendatang. Pembicaraan ini menarik perhatian banyak orang yang penasaran dengan ide-idenya tentang masa depan global.</item>
+        <item>Google kini lebih agresif dalam memberikan peringatan cuaca ekstrem. Dengan memanfaatkan teknologi kecerdasan buatan, Google dapat memperkirakan cuaca dengan lebih akurat dan memberi peringatan lebih cepat kepada pengguna. Teknologi ini sangat membantu dalam mengurangi risiko akibat bencana alam seperti badai atau hujan deras.</item>
+        <item>Samsung berkomitmen untuk memberikan diskon besar-besaran untuk produk Galaxy mereka menjelang musim liburan akhir tahun. Penawaran ini menarik bagi banyak konsumen yang ingin mendapatkan gadget canggih dengan harga terjangkau. Samsung juga memperkenalkan berbagai fitur baru dalam perangkat mereka yang dirancang untuk meningkatkan pengalaman pengguna.</item>
+        <item>Pengisian daya kendaraan listrik di jalan tol kini semakin mudah dengan hadirnya fasilitas pengisian yang lebih banyak dan efisien. PLN memastikan bahwa tidak ada pengguna kendaraan listrik yang kehabisan daya saat melakukan perjalanan jarak jauh, terutama pada liburan panjang. Ini merupakan langkah penting untuk mendukung adopsi kendaraan listrik di Indonesia.</item>
+        <item>Desain ponsel dari China semakin mirip dengan iPhone, yang membuat banyak konsumen bingung membedakan keduanya. Hal ini memunculkan pertanyaan tentang hak kekayaan intelektual dan perlindungan desain dalam industri teknologi. Konsumen disarankan untuk lebih berhati-hati dalam memilih perangkat yang mereka beli agar tidak tertipu oleh desain yang mirip.</item>
+    </string-array>
+
+    <string-array name="news_date">
+        <item>12-12-2024</item>
+        <item>12-12-2024</item>
+        <item>12-11-2024</item>
+        <item>12-10-2024</item>
+        <item>12-10-2024</item>
+        <item>12-09-2024</item>
+        <item>12-09-2024</item>
+        <item>12-09-2024</item>
+        <item>12-08-2024</item>
+        <item>12-08-2024</item>
+        <item>12-07-2024</item>
+        <item>12-07-2024</item>
+    </string-array>
+
+    <string-array name="news_link">
+        <item>https://www.cnbcindonesia.com/tech/20241210072534-37-594649/as-bersih-bersih-produk-china-modalnya-rp-301-triliun</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209123741-39-594430/video-serangan-siber-hantui-digitalisasi-ri-industri-siap-hadapi</item>
+        <item>https://www.cnbcindonesia.com/tech/20241210082749-37-594611/cara-mengetahui-whatsapp-diblokir-orang-lain-dan-ciri-cirinya</item>
+        <item>https://www.cnbcindonesia.com/tech/20241210073124-37-594606/aplikasi-trendi-ungkap-cara-baru-gen-z-cari-jodoh-bukan-tinder-bumble</item>
+        <item>https://www.cnbcindonesia.com/tech/20241210072632-37-594605/cara-mudah-kirim-whatsapp-tanpa-simpan-nomor-lebih-dulu</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209154540-37-594498/awas-bom-nuklir-rusia-bisa-meledak-sewaktu-waktu-di-antariksa</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209142600-37-594477/modus-penipuan-baru-incar-pengguna-iphone-ini-ciri-khas-smishing</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209145245-37-594484/jack-ma-muncul-buka-bukaan-masa-depan-manusia-20-tahun-lagi</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209131409-37-594448/bukan-bmkg-google-kasih-peringatan-cuaca-ekstrem</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209143425-37-594482/daftar-hp-samsung-diskon-gila-gilaan-jelang-nataru-2025</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209172006-37-594525/dirut-pln-jangan-sampai-pengguna-ev-kehabisan-listrik-di-jalan-tol</item>
+        <item>https://www.cnbcindonesia.com/tech/20241209135713-37-594468/hp-china-makin-mirip-iphone-jangan-sampai-tertukar</item>
+    </string-array>
+
+    <string-array name="news_image">
+        <item>https://awsimages.detik.net.id/visual/2021/10/15/huawei_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2024/12/09/jutaan-warga-ri-terjerat-judi-online-gimana-cara-memberantasnya_169.png?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2022/11/19/ilustrasi-whatsapp-reutersdado-ruvic_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2024/01/31/ilustrasi-orang-bermain-handphone-via-getty-images_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2023/11/01/logo-whatsapp-cnbc-indonesianovina_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2020/11/26/pesawat-antariksa-kapsul-soyuz_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2024/03/22/perbedaan-bubble-chat-iphone-dengan-android_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2021/11/09/jack-ma-pendiri-alibaba-group-mengunjungi-penanam-bunga-belanda-anthura-di-kota-bleiswijk-reuterscharles-platiau_169.jpeg?w=1200&amp;q=100</item>
+        <item>https://awsimages.detik.net.id/visual/2018/07/24/69720b71-4b66-40e0-87ce-971d246e96cd_169.jpeg?w=1200&amp;q=90</item>
+        <item>https://awsimages.detik.net.id/visual/2024/10/01/samsung-galaxy-s24-fe-cnbc-indonesianovina-1_169.jpeg?w=1200&amp;q=90</item>
+        <item>https://awsimages.detik.net.id/visual/2024/10/14/direktur-utama-pt-pln-persero-darmawan-prasodjo-memberikan-pemaparan-dalam-acara-repnas-national-conference-awarding-night-ene-12_169.jpeg?w=1200&amp;q=90</item>
+        <item>"https://awsimages.detik.net.id/visual/2024/09/10/iphone-16-baru-dipamerkan-selama-pengumuman-produk-baru-di-kantor-pusat-apple-pada-hari-senin-9-september-2024-di-cupertino-ca-3_169.jpeg?w=1200&amp;q=90</item>
+    </string-array>
+</resources>
